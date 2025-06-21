@@ -12,7 +12,7 @@ def main():
 
         again = input("Roll again? (y/n): ").lower()
         if again != 'y':
-            print("Goodbye!")
+            print("NOOOO!")
             break
 
 if __name__ == "__main__":
